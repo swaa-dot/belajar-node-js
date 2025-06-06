@@ -5,3 +5,8 @@ slide : https://www.youtube.com/redirect?event=video_description&redir_token=QUF
 
 source from 
 YT (Programmer Zaman Now) : https://www.youtube.com/watch?v=b39Xqf5iyjo&t=141s
+
+Cara run : 
+1. Buka terminal
+2. Tulis "node (nama file, contoh : hello.world.js)"
+
